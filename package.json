@@ -3,7 +3,7 @@
     "serve": "webpack-dev-server"
   },
   "dependencies": {
-    "@luxebeng/zkmove-wasm": "^0.5.2"
+    "@luxebeng/zkmove-wasm": "^0.5.3"
   },
   "devDependencies": {
     "webpack": "^4.25.1",
